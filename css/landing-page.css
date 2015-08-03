@@ -192,7 +192,6 @@ p.copyright {
 
 .ribbon-green {
   text-align: center;
-  text-shadow: rgba(255,255,255,0.5) 0px 1px 0px;
   -webkit-transform: rotate(45deg);
   -moz-transform:    rotate(45deg);
   -ms-transform:     rotate(45deg);
@@ -235,7 +234,6 @@ p.copyright {
 }
 .ribbon-blue {
   text-align: center;
-  text-shadow: rgba(255,255,255,0.5) 0px 1px 0px;
   -webkit-transform: rotate(45deg);
   -moz-transform:    rotate(45deg);
   -ms-transform:     rotate(45deg);
@@ -278,7 +276,6 @@ p.copyright {
 
 .ribbon-red {
   text-align: center;
-  text-shadow: rgba(255,255,255,0.5) 0px 1px 0px;
   -webkit-transform: rotate(45deg);
   -moz-transform:    rotate(45deg);
   -ms-transform:     rotate(45deg);
