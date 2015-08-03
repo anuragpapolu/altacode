@@ -224,15 +224,8 @@ p.copyright {
 .ribbon-green:after {
   right: 0;
 }
-.ribbon-wrapper-green {
-  width: 85px;
-  height: 88px;
-  overflow: hidden;
-  position: absolute;
-  top: -3px;
-  right: -3px;
-}
-.ribbon-blue-green {
+
+.ribbon-wrapper-blue {
   width: 85px;
   height: 88px;
   overflow: hidden;
