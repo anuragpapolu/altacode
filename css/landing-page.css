@@ -79,24 +79,20 @@ body, h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
 }
 .content-section-a {
-  height: 100%;
   background: url("http://subtlepatterns.com/patterns/light_noise_diagonal.png");
   padding: 50px 0;
 }
 .content-section-b {
-  height: 100%;
   background: url("http://subtlepatterns.com/patterns/halftone.png");
   padding: 50px 0;
 }
 
 .content-section-c {
-  height: 100%;
   background: url("http://subtlepatterns.com/patterns/crossword.png");
   padding: 50px 0;
 
 }
 .content-section-d {
-  height: 100%;
   background: url("http://subtlepatterns.com/patterns/fabric_of_squares_gray.png");
   padding: 50px 0;
 }
