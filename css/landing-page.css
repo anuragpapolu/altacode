@@ -81,24 +81,20 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 .content-section-a {
   background: url("http://subtlepatterns.com/patterns/light_noise_diagonal.png");
-  background-attachment: fixed;
   padding: 50px 0;
 }
 .content-section-b {
   background: url("http://subtlepatterns.com/patterns/halftone.png");
-  background-attachment: fixed;
   padding: 50px 0;
 }
 
 .content-section-c {
   background: url("http://subtlepatterns.com/patterns/crossword.png");
-  background-attachment: fixed;
   padding: 50px 0;
 
 }
 .content-section-d {
   background: url("http://subtlepatterns.com/patterns/fabric_of_squares_gray.png");
-  background-attachment: fixed;
   padding: 50px 0;
 }
 
@@ -117,7 +113,6 @@ body, h1, h2, h3, h4, h5, h6 {
   color: #f8f8f8;
   background: url(../img/banner.png) no-repeat center center;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 .banner h2 {
